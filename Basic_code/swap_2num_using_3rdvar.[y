@@ -1,3 +1,0 @@
-#wap to swap the two number using the 3rd varibale 
-a=int(input('enter the number ))
-b=int9input()
