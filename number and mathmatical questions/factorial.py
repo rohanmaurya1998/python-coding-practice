@@ -1,0 +1,6 @@
+#wap to print the factorial of the given number
+n=int(input('enter the number '))
+fact=1
+for i in range(1,n+1):
+    fact*=i
+print(fact)
